@@ -18,12 +18,10 @@
 | Dec 2024 | Lambo.win | Code4rena | 1 High, 1 Medium |
 | Dec 2024 | SecondSwap | Code4rena | 1 High, 2 Medium |
 | Jan 2025 | Plaza Finance | Sherlock | 1 High |
-| Feb 2025 | RAAC | CodeHawks | Currently Judging (Currently have 3 High and 2 Medium) |
+| Feb 2025 | RAAC | CodeHawks | 3 High and 2 Medium |
 | Mar 2025 | Symmio - Staking and Vesting | Sherlock | 1 High, 1 Medium |
 | Mar 2025 | Crestal Network | Sherlock | 1 High |
 | Mar 2025 | Nudge.xyz | Code4rena | 1 Medium |
 | Apr 2025 | Aegis.im YUSD | Sherlock | 1 Medium (3rd place) |
 | May 2025 | Alchemix | Cantina | Currently Judging (Currently have 6 High and 3 Medium) |
-| May 2025 | Upside | Code4rena | Currently Judging |
-| May 2025 | Yearn yBOLD | Sherlock | Currently Judging |
-| May 2025 | LayerEdge - Staking | Sherlock | Currently Judging |
+| May 2025 | LayerEdge - Staking | Sherlock | 1 Medium |
