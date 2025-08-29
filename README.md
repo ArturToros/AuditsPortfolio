@@ -23,5 +23,7 @@
 | Mar 2025 | Crestal Network | Sherlock | 1 High |
 | Mar 2025 | Nudge.xyz | Code4rena | 1 Medium |
 | Apr 2025 | Aegis.im YUSD | Sherlock | 1 Medium (3rd place) |
-| May 2025 | Alchemix | Cantina | Currently Judging (Currently have 6 High and 3 Medium) |
+| May 2025 | Alchemix | Cantina | 6 High and 3 Medium |
 | May 2025 | LayerEdge - Staking | Sherlock | 1 Medium |
+| June 2025 | Superfluid Locker System | Sherlock | 1 Medium |
+| July 2025 | Succinct Network | Cantina | 1 High 1 Medium |
